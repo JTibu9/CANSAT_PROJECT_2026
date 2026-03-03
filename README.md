@@ -10,7 +10,7 @@ Validar un flujo básico de visión (captura → procesamiento → salida/regist
 - **Módulos auxiliares**: funciones de apoyo (procesamiento, utilidades, etc.).
 - **Recursos** (si aplica): configuraciones, ejemplos y/o datos de prueba.
 
-> Nota: esta sección se ajustará con los nombres reales de carpetas y archivos del proyecto.
+> Nota: esta sección se ajustará con los nombres reales de carpetas y archivos del proyecto.https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif
 
 ## Requisitos
 - Python 3.x
@@ -32,7 +32,6 @@ python main.py
 ## Estado
 Repositorio experimental de pruebas de visión. La estructura y funcionalidades pueden cambiar conforme avanza el desarrollo.
 
-## Licencia
-Por definir.
-![Demo de la app](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
+
+![Demo de la app]((https://tenor.com/bO2wD.gif))
 
