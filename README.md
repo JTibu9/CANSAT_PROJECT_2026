@@ -33,5 +33,5 @@ python main.py
 Repositorio experimental de pruebas de visión. La estructura y funcionalidades pueden cambiar conforme avanza el desarrollo.
 
 
-!((https://tenor.com/view/better-call-saul-loop-3d-edit-gif-24518425))
+![DEMO]((https://tenor.com/view/better-call-saul-loop-3d-edit-gif-24518425))
 
