@@ -34,3 +34,4 @@ Repositorio experimental de pruebas de visión. La estructura y funcionalidades 
 
 ## Licencia
 Por definir.
+![si](https://tenor.com/bO2wD.gif)
