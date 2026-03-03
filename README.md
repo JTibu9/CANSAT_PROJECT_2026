@@ -33,5 +33,6 @@ python main.py
 Repositorio experimental de pruebas de visión. La estructura y funcionalidades pueden cambiar conforme avanza el desarrollo.
 
 ## Licencia
-Por definir. ![si](https://tenor.com/bO2wD.gif)
+Por definir.
+![Demo de la app](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
 
